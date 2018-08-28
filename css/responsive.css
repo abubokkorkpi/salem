@@ -1,0 +1,565 @@
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) { 
+.header_bottom_area {
+  margin-top: 140px;
+}
+.header_bottom_area h1 {
+  font-size: 48px;
+}
+.aboutus_text h1 {
+  font-size: 30px;
+}
+.our_skill {
+  margin-top: -405px;
+  width: 57%;
+}
+.about_us_area {
+  padding-bottom: 140px;
+}
+.aboutus_text {
+  margin-top: 100px;
+}
+.team_hover h4 {
+  margin-top: 162px;
+}
+.counter_number h1 {
+  font-size: 50px;
+}
+.counter_left .counter_number {
+  margin-left: 23px;
+  width: 80px;
+}
+.counter_middle {
+  margin-left: 10%;
+  width: 35%;
+}
+.counter_right .counter_number {
+  margin-left: 23px;
+  width: 95px;
+}
+.counter_right {
+  width: 30%;
+}
+.clean_design_left h2 {
+  font-size: 21px;
+}
+.faq_video {
+  width: 626px;
+}
+#accordion h4 {
+  font-size: 14px;
+}
+.accordion_area {
+  margin-top: 40px;
+}
+.portfolio_single_item img.p_img {
+  height: 250px;
+}
+.right_control i {
+  left: 585px;
+}
+.carousel_single h4 {
+  font-size: 16px;
+}
+.responsive_left h1 {
+  font-size: 45px;
+}
+.responsive_left button {
+  width: 175px;
+}
+.responsive_right img.iphone {
+  left: -85px;
+}
+.footer_left li {
+  padding-right: 15px;
+}
+.footer_left ul li a {
+  font-size: 11px;
+}
+
+}
+
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+.close_menu {
+  margin-top: -98px;
+}
+.header_bottom_area {
+  margin-top: 150px;
+}
+.about_us_area {
+  padding-bottom: 180px;
+}
+.about_img {
+  width: 40%;
+}
+.aboutus_text {
+  margin-top: 110px;
+}
+.aboutus_text h1 {
+  font-size: 24px;
+  line-height: 30px;
+}
+.specialty_text h6 {
+  margin-bottom: 35px;
+}.our_skill {
+  margin-left: 10%;
+  width: 80%;
+}
+.team_hover h4 {
+  margin-top: 112px;
+}
+.timeline_text p {
+  font-size: 9px;
+}
+.timeline_area {
+  padding-bottom: 70px;
+}
+.counter_area {
+  padding-bottom: 100px;
+}
+.conter_left-image {
+  display: none;
+}
+.faq_video {
+  float: none;
+  margin-left: 11%;
+  margin-right: 0;
+  width: 78%;
+}
+.accordion_area {
+  margin-bottom: 50px;
+}
+.portfolio_single_item {
+  width: 33.3%;
+}
+.clients_logo {
+  width: 50%;
+}
+.right_control i {
+  left: 478px;
+}
+.responsive_left h3 {
+  font-size: 23px;
+}
+.responsive_left h1 {
+  font-size: 34px;
+}
+.responsive_left button {
+  padding: 12px 0;
+  width: 136px;
+}
+.responsive_area {
+  padding-bottom: 85px;
+}
+.responsive_right img.iphone {
+  left: -95px;
+  top: 90px;
+}
+.blog_single h1 a {
+  font-size: 19px;
+}
+.contact_header h1 {
+  font-size: 32px;
+}
+.contact_header h1::after {
+  height: 38px;
+}
+
+}
+
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) { 
+.close_menu {
+  margin-top: -95px;
+}  
+.header_bottom_area h1 {
+  font-size: 35px;
+  margin-bottom: 25px;
+  padding-bottom: 25px;
+}
+.header_bottom_area h1::after {
+  margin-left: -55px;
+  width: 110px;
+}
+.header_bottom_area {
+  margin-top: 120px;
+}
+.header_bottom_area p {
+  font-size: 14px;
+  margin-bottom: 50px;
+}
+.about_img {
+  display: none;
+}
+.about_us_area {
+  padding-bottom: 50px;
+}
+.aboutus_text {
+  margin-top: 70px;
+}
+.aboutus_text h1 {
+  font-size: 14px;
+  line-height: 22px;
+  margin-bottom: 25px;
+}
+.aboutus_text h6 {
+  font-size: 14px;
+  margin-bottom: 25px;
+  padding-bottom: 25px;
+}
+.aboutus_text p {
+  font-size: 13px;
+  margin-bottom: 35px;
+}
+.specialty_text {
+  margin-bottom: 45px;
+  margin-top: 70px;
+}
+.specialty_text h1 {
+  font-size: 32px;
+}
+.specialty_text h1::after {
+  height: 40px;
+}
+.our_skill {
+  margin-left: 5%;
+  margin-top: 0;
+  width: 90%;
+}
+.specialty_text h6 {
+  margin-bottom: 35px;
+}
+.our_skill_single {
+  border: 1px solid #292929;
+  float: none;
+  margin-bottom: 30px;
+  width: 100%;
+}
+.team_header h1 {
+  font-size: 30px;
+}
+.team_header h1::after {
+  height: 38px;
+}
+.team_header h4 {
+  font-size: 15px;
+  margin-bottom: 50px;
+}
+.team_picture {
+  float: none;
+  margin-bottom: 30px;
+  width: 100%;
+}
+.team_hover h4 {
+  font-size: 18px;
+}
+.our_team_area {
+  padding-bottom: 50px;
+}
+.timeline_area {
+  padding-bottom: 50px;
+}
+.timeline_header h1 {
+  font-size: 32px;
+}
+.about_timeline button {
+  margin-bottom: 40px;
+}
+.timeline_header p {
+  font-size: 15px;
+  margin-bottom: 50px;
+}
+.timeline_single_up {
+  border-bottom: 1px solid #888;
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+}
+.timeline_single_down {
+  border-bottom: 1px solid #888;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+}
+.timeline_single_border {
+  border-bottom: 0 dashed #676766;
+}
+.timeline_single_up::after {
+  background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+}
+.timeline_single_down::after {
+  background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+}
+.timeline_single_up .timeline_icon {
+  margin-bottom: 20px;
+}
+.timeline_single_up .timeline_icon::after {
+  background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+}
+.timeline_single_up .timeline_text {
+  margin-left: 0;
+}
+.timeline_single_down .timeline_icon::after {
+  background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+}
+.timeline_single_down .timeline_text {
+  margin-bottom: 0;
+  margin-left: 0;
+}
+.counter_header {
+  margin-top: 80px;
+}
+.counter_header h2 {
+  font-size: 25px;
+}
+.counter_left {
+  display: inline-block;
+  float: none;
+  margin-bottom: 30px;
+  text-align: center;
+  width: 100%;
+}
+.counter_left .counter_icon {
+  float: none;
+  margin-bottom: 20px;
+  width: 100%;
+}
+.counter_left .counter_number {
+  float: none;
+  margin-left: 0;
+  width: 100%;
+}
+.counter_middle {
+  display: inline-block;
+  float: none;
+  margin-bottom: 30px;
+  margin-left: 0;
+  text-align: center;
+  width: 100%;
+}
+.counter_middle .counter_icon {
+  float: none;
+  margin-bottom: 20px;
+  width: 100%;
+}
+.counter_middle .counter_number {
+  float: none;
+  margin-left: 0;
+  width: 100%;
+}
+.counter_right {
+  display: inline-block;
+  float: none;
+  margin-bottom: 30px;
+  margin-left: 0;
+  text-align: center;
+  width: 100%;
+}
+.counter_right .counter_icon {
+  float: none;
+  margin-bottom: 20px;
+  width: 100%;
+}
+.counter_right .counter_number {
+  float: none;
+  margin-left: 0;
+  width: 100%;
+}
+.conter_left-image {
+  margin-top: 10px;
+  text-align: center;
+}
+.clean_design_left h2 {
+  font-size: 18px;
+}
+.faq_video {
+  float: none;
+  margin-right: 0;
+  width: 100%;
+}
+.accordion_area h2 {
+  font-size: 20px;
+}
+#accordion h4 {
+  font-size: 14px;
+  line-height: 20px;
+}
+.accordion_area {
+  margin-bottom: 45px;
+}
+.service_single h3 {
+  font-size: 15px;
+}
+.portfolio_header h1 {
+  font-size: 27px;
+}
+.portfolio_header h1::after {
+  height: 32px;
+}
+.portfolio_header p {
+  font-size: 14px;
+  margin-bottom: 40px;
+}
+.portfolio_menu ul li {
+  margin: 6px 14px;
+  padding: 9px 16px;
+}
+.portfolio_single_item {
+  float: none;
+  width: 100%;
+}
+.portfolio_single_item img.p_img {
+  height: 225px;
+  width: 100%;
+}
+.clients_header h1 {
+  font-size: 25px;
+}
+.clients_logo {
+  float: none;
+  height: 260px;
+  width: 100%;
+}
+.clients_header p {
+  font-size: 14px;
+  margin-bottom: 50px;
+}
+.carousel_single h4 {
+  font-size: 16px;
+  line-height: 21px;
+  margin-bottom: 20px;
+}
+.left_control i {
+  left: 44%;
+}
+.right_control i {
+  left: 155px;
+}
+.responsive_left h3 {
+  font-size: 21px;
+}
+.responsive_left h1 {
+  font-size: 31px;
+  line-height: 40px;
+}
+.responsive_left button {
+  margin-bottom: 12px;
+  margin-left: 10%;
+  width: 80%;
+}
+.responsive_left {
+  margin-top: 60px;
+}
+.responsive_area {
+  padding-bottom: 250px;
+}
+.responsive_right img.iphone {
+  display: none;
+}
+.price_header h1 {
+  font-size: 31px;
+}
+.price_header h1::after {
+  height: 35px;
+}
+.price_header p {
+  font-size: 14px;
+  margin-bottom: 35px;
+}
+.single_price_table {
+  margin-bottom: 35px;
+}
+.price_table_area {
+  padding-bottom: 35px;
+}
+.blog_header h1 {
+  font-size: 27px;
+}
+.blog_header h1::after {
+  height: 32px;
+}
+.blog_header p {
+  font-size: 14px;
+  margin-bottom: 50px;
+}
+.blog_single {
+  height: 270px;
+  padding-left: 20px;
+  padding-top: 100px;
+  width: 100%;
+}
+.blog_single h1 {
+  line-height: 25px;
+  margin-top: 15px;
+}
+.blog_single h1 a {
+  font-size: 20px;
+  line-height: 0;
+}
+.contact_us {
+  margin-bottom: 35px;
+}
+.contact_left_form {
+  float: none;
+  margin-right: 0;
+  width: 100%;
+}
+.contact_right_form {
+  float: none;
+  margin-left: 0;
+  width: 100%;
+}
+.contact_left_form input {
+  margin-bottom: 15px;
+}
+.contact_right_form input {
+  margin-bottom: 15px;
+}
+.contact_textarea textarea {
+  height: 160px;
+}
+.footer_left input {
+  font-size: 40px;
+}
+.footer_left p {
+  font-size: 13px;
+  margin-bottom: 20px;
+}
+.footer_left h5 {
+  margin-bottom: 20px;
+}
+
+
+}
+
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+.portfolio_single_item img.p_img {
+  height: 100%;
+}
+.clients_logo {
+  height: 290px;
+}	
+.right_control i {
+  left: 250px;
+}
+.responsive_left h3 {
+  font-size: 26px;
+}
+.responsive_left h1 {
+  font-size: 45px;
+  line-height: 48px;
+}
+.responsive_left button {
+  margin-left: 0;
+}
+.responsive_right img.ipad {
+  right: 8%;
+}
+.responsive_area {
+  padding-bottom: 330px;
+}
+.responsive_left {
+  margin-top: 80px;
+}
+    
+}
